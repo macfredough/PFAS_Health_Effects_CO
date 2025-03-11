@@ -12,7 +12,7 @@ Analyze contamination trends: Examine changes in PFAS contamination over recent 
 
 Assess health impacts: Investigate correlations between PFAS exposure and public health outcomes.
 
-Data Sources
+Data Sources (Note some sources had to be zipped to upload to GitHub)
 
 PFAS Contamination Data
 
