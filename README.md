@@ -12,17 +12,23 @@ Analyze contamination trends: Examine changes in PFAS contamination over recent 
 
 Assess health impacts: Investigate correlations between PFAS exposure and public health outcomes.
 
-Data Sources (Note some sources had to be zipped to upload to GitHub)
+Data Sources (*Note some sources had to be zipped to upload to GitHub)
 
 PFAS Contamination Data
 
-Data obtained from the Colorado Department of Public Health and Environment (CDPHE) - PFAS Data includes comprehensive water testing results from public water systems, covering 2021 to the present.
+Data obtained from the Colorado Department of Public Health and Environment (CDPHE) - PFAS Data includes comprehensive water testing results from public water systems, covering 2021 to the present -
+
+PFAS_Dataset1: [Click here](https://drive.google.com/file/d/1bbtjOixYKWTonkgO-2zEAQI6Tgf41Q8T/view)
+
+PFAS_Dataset2: [Click here](https://cohealthviz.dphe.state.co.us/t/EnvironmentalEpidemiologyPublic/views/PFAS_results_DRAFT/SamplingSummary?%3AshowAppBanner=false&%3Adisplay_count=n&%3AshowVizHome=n&%3Aorigin=viz_share_link&%3AisGuestRedirectFromVizportal=y&%3Aembed=y)
 
 Health Outcome Data
 
 Colorado Mortality Data (1980-2023) sourced from the Colorado Center for Health & Environmental Data, providing mortality rates by cause across counties.
 
-Colorado Chronic Disease Data (2018-2022) from the CDC's PLACES dataset, capturing prevalence rates of various chronic conditions. Data source: CDC PLACES - 500 Cities & Places.
+Colorado Chronic Disease Data (2018-2022) from the CDC's PLACES dataset, capturing prevalence rates of various chronic conditions. Data source: CDC PLACES - 500 Cities & Places - [Click here](https://data.cdc.gov/browse?category=500+Cities+%26+Places&q=places&sortBy=relevance&tags=places&pageSize=20)
+
+US Counnty shape file for Geographic mapping can be found at [Click here](https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2024&layergroup=Counties+%28and+equivalent%29)
 
 Methods
 
