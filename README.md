@@ -12,8 +12,6 @@ Analyze contamination trends: Examine changes in PFAS contamination over recent 
 
 Assess health impacts: Investigate correlations between PFAS exposure and public health outcomes.
 
-Data Sources (*Note some sources had to be zipped to upload to GitHub)
-
 PFAS Contamination Data
 
 Data obtained from the Colorado Department of Public Health and Environment (CDPHE) - PFAS Data includes comprehensive water testing results from public water systems, covering 2021 to the present -
