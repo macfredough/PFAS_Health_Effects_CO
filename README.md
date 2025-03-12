@@ -77,3 +77,12 @@ Longitudinal analysis including individual-level health outcomes.
 Consideration of socioeconomic factors and chronic health conditions.
 
 Increased frequency and granularity of PFAS testing and data collection.
+
+Mapping:
+
+LOC_TYPE:
+PWS: Public Water System
+FS: Fire Station
+GW: Ground Water
+SW: Surface Water
+GU: Groundwater under the influence of surface water
